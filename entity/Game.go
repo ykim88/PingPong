@@ -1,7 +1,7 @@
 package entity
 
 import (
-	gamer "GameGoRoutine/entity/gamer"
+	"GameGoRoutine/entity/gamer"
 	"fmt"
 	"sync"
 )
